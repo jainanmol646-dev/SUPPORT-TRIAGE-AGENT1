@@ -1,0 +1,5 @@
+To reset password, go to login page and click forgot password.
+For payment issues or money deducted, contact support immediately.
+If account is hacked or unauthorized access, report immediately.
+Assessment or test issues can be solved by clearing browser cache.
+Login issues can be fixed by resetting password.
